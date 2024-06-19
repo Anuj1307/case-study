@@ -1,0 +1,13 @@
+body {
+    font-family: 'Special Elite', cursive;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+h1
+{
+    color: red;
+    font-size: 60px;
+    margin: 0px;
+    width: 100%;
+}
